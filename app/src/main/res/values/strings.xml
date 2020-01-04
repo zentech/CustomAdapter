@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BookList</string>
+
+    <string-array name="books">
+        <item>"The Da Vinci Code"</item>
+        <item>"The Girl On The Train"</item>
+        <item>"Harry Potter"</item>
+        <item>"Hunger Games"</item>
+        <item>"Lord of the Rings"</item>
+        <item>"Moby Dick"</item>
+        <item>"To Kill a Mockingbird"</item>
+        <item>"The Godfather"</item>
+    </string-array>
+
+    <string-array name="authors">
+        <item>Dan Brown</item>
+        <item>Paula Hawkins</item>
+        <item>J. K. Rowling</item>
+        <item>Suzanne Collins</item>
+        <item>J. R. R. Tolkien</item>
+        <item>Herman Melville</item>
+        <item>Harper Lee</item>
+        <item>Mario Puzo</item>
+    </string-array>
+
+</resources>
